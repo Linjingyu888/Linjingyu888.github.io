@@ -20,6 +20,8 @@ h1{
 	width: 6em;
     flex-grow: 1;
     padding-right: 3em;
+	display:block;
+	height: 10em;
 }
 
 h2 {
@@ -122,9 +124,11 @@ li {
   }
   
   #profile_picture {
-  	max-width: 7.5em;
+  	width: 3em;
     flex-grow: 1;
     padding-right: 18em;
+	display:block;
+	height: 10em;
   }
 }
 
