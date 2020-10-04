@@ -16,6 +16,25 @@ h1{
 	text-align:center;
 }
 
+#languages{
+	display:flex;
+}
+
+#flag_item1{
+	flex-grow:5;
+	text-align:right;
+}
+
+#flag_item2{
+	flex-grow:1;
+	text-align:center;
+}
+
+#flag{
+    width: 2em;
+    height: 1.1em;
+}
+
 #profile_picture {
 	width: 6em;
     flex-grow: 1;
@@ -132,6 +151,7 @@ li {
   }
 }
 
-
-
+footer{
+	text-align:center;
+}
 
