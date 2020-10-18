@@ -127,6 +127,12 @@ li {
     content: " ";
 }
 
+#instgram::before{
+    font-family: "H5PFontAwesome4";
+    font-weight: 400;
+    content: " ";
+}
+
 #language::before{
     font-family: "H5PFontAwesome4";
     font-weight: 400;
